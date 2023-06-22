@@ -1,3 +1,5 @@
 # mini_projects
-In this repository i am going to store all the mini projects :
-1. number guesing
+The Password Strength Checker is a tool that assesses the strength of passwords entered by users and provides feedback on their complexity and security level. It helps users create strong passwords that are resistant to hacking attempts and ensures their accounts and personal information remain secure.
+
+I created this project to enhance my understanding and increase my knowledge in python language
+
