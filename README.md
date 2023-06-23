@@ -9,3 +9,4 @@ In this repository i am going to store all the mini projects :
 7. Tic_Tac_Toe
 8. Typing_Speed_And_Accuracy_Test
 9. To-Do List
+10. Movies_Calculation
