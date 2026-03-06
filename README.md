@@ -1,3 +1,15 @@
+# ⚠️ Archived Project
+
+This repository contains an earlier experiment / practice project.
+
+It is no longer maintained and is kept only for reference.
+
+---
+
+# Original Project Description
+
+<old README content here>
+
 # mini_projects
 In this repository i am going to store all the mini projects :
 1. Number Guesing
